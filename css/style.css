@@ -1,10 +1,10 @@
-@import url(http://fonts.googleapis.com/css?family=Open+Sans:400italic,400,300italic,300,700italic,700,600);
+
 .set-default {
   float: left;
   width: 100%;
 }
 lesshat-selector {
-  -lh-property: 0; } 
+  -lh-property: 0; }
 ::selection{color: white; background: #202020}
 ::-moz-selection{color: white; background: #202020;
 }
@@ -1429,7 +1429,7 @@ form select {
   width: 100%;
   background: white;
   position:relative;
-	z-index:10 
+	z-index:10
 }
 .navbar .inverse-color.sticky {
   position: fixed;
@@ -1857,9 +1857,9 @@ form select {
   height: auto;
 }
 .footer-widget .instagram a, .footer-widget .instagram a img  {
-	width:60px; 
-	float:left; 
-	display:inline-block; 
+	width:60px;
+	float:left;
+	display:inline-block;
 	margin:0 4px 3px 2px
 }
 .footer-widget .latest-post ul {
@@ -3470,8 +3470,8 @@ form select {
   z-index: 5;
 }
 .tp-caption li {
-	font-size:20px; 
-	line-height:28px; 
+	font-size:20px;
+	line-height:28px;
 	color:#EDEDED
 }
 .tp-caption li i {
@@ -3833,19 +3833,19 @@ form select {
 .statement-about {
     background-image:url('../content/statement-backgrounds/happy.jpg');
     margin-bottom: 40px;
-    
+
 }
 
 .statement-services {
     background-image:url('../content/statement-backgrounds/coffee.jpg');
     margin-bottom: 40px;
-    
+
 }
 
 .statement-contact {
     background-image:url('../content/statement-backgrounds/hand.jpg');
     margin-bottom: 40px;
-    
+
 }
 
 .statement-contact-2 {
@@ -4216,8 +4216,8 @@ form select {
 }
 
 .process:hover .fill-icon {
-  background:#f8434a; 
-  color:#EDEDED; 
+  background:#f8434a;
+  color:#EDEDED;
 }
 
 .boxes .box .black-icon {
@@ -4228,7 +4228,7 @@ form select {
 }
 
 .boxes .box:hover .black-icon {
-  color:#f8434a 
+  color:#f8434a
 }
 
 .boxes .box .fill-icon.black-icon {
@@ -4239,8 +4239,8 @@ form select {
 }
 
 .boxes .box:hover .fill-icon.black-icon {
-  background:#f8434a; 
-  color:#fff; 
+  background:#f8434a;
+  color:#fff;
 }
 
 .boxes .box .outline-icon.red-icon {
@@ -4251,8 +4251,8 @@ form select {
 }
 
 .boxes .box:hover .outline-icon.red-icon {
-  background:#f8434a; 
-  color:#fff; 
+  background:#f8434a;
+  color:#fff;
 }
 
 .boxes .box .fill-icon.red-icon {
@@ -4264,7 +4264,7 @@ form select {
 }
 
 .boxes .box:hover .fill-icon.red-icon {
-  background:#fff; 
+  background:#fff;
   color:#f8434a;
   border:2px solid #F8434A
 }
@@ -4278,7 +4278,7 @@ form select {
 }
 
 .box:hover .oldal-icon.grey-icon.lg-icon {
-  color:#f8434a; 
+  color:#f8434a;
 }
 
 .share li div.lightgrey-icon {
@@ -4289,10 +4289,10 @@ form select {
 }
 
 .share li:hover div.lightgrey-icon {
-  background:#f8434a 
+  background:#f8434a
 }
 
-.simple-footer .white-icon {  
+.simple-footer .white-icon {
   -webkit-transition: all .2s ease-in-out;
   -moz-transition: all .2s ease-in-out;
   -o-transition: all .2s ease-in-out;
@@ -4310,17 +4310,17 @@ iframe {
 	clear:left
 }
 
-.fancybox-lock, 
+.fancybox-lock,
 .fancybox-overlay,
-.fancybox-lock body { 
+.fancybox-lock body {
   overflow: visible !important;
-}  
+}
 
 .fancybox-margin {
   margin-right: 0 !important;
 }
 
-.oldal-prev, 
+.oldal-prev,
 .oldal-next {
     top: -30px;
     position: relative;

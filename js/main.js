@@ -1,6 +1,6 @@
 var Oldal = {
     init : function() {
-        this.initInstagram();
+        // this.initInstagram();
         this.initFlexsliders();
         this.initTooltips();
         this.initPopovers();
@@ -232,4 +232,3 @@ $(window).resize(function() {
 
 
 $(".post").fitVids();
-
