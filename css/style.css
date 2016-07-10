@@ -9,7 +9,7 @@ lesshat-selector {
 ::-moz-selection{color: white; background: #202020;
 }
 body {
-  font-family: "Open Sans", Arial, sans-serif;
+  font-family: "微软雅黑", Arial, sans-serif;
   font-size: 16px;
   font-weight: 400;
   line-height: 16px;
@@ -4328,4 +4328,10 @@ iframe {
 
 .footer-info a {
   color: #202020;
+}
+
+pre.nostyle{
+  border:none;
+  background:none;
+  font-size: 16px;
 }
