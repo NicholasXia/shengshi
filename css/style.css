@@ -3854,6 +3854,18 @@ form select {
 .statement-portfolio {
     background-image:url('../content/statement-backgrounds/camera.jpg');
 }
+.statement-kehu {
+    background-image:url('../content/statement-backgrounds/kehu.png');
+}
+.statement-anli {
+    background-image:url('../content/statement-backgrounds/anli.png');
+}
+.statement-chengji {
+    background-image:url('../content/statement-backgrounds/chengji.png');
+}
+.statement-xinwen {
+    background-image:url('../content/statement-backgrounds/xinwen.png');
+}
 .statement-services-2 {
     background-image:url('../content/statement-backgrounds/laptop.jpg');
 }
