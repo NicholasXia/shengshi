@@ -60,43 +60,43 @@ button {
   font-weight: 300;
 }
 h1 {
-  font-family: "Open Sans", Arial, sans-serif;
+  font-family: "微软雅黑", Arial, sans-serif;
   font-size: 32px;
   font-weight: 400;
   line-height: 34px;
 }
 h1.big {
-  font-family: "Open Sans", Arial, sans-serif;
+  font-family: "微软雅黑", Arial, sans-serif;
   font-size: 42px;
   font-weight: 400;
   line-height: 44px;
 }
 h2 {
-  font-family: "Open Sans", Arial, sans-serif;
+  font-family: "微软雅黑", Arial, sans-serif;
   font-size: 26px;
   font-weight: 400;
   line-height: 28px;
 }
 h3 {
-  font-family: "Open Sans", Arial, sans-serif;
+  font-family: "微软雅黑", Arial, sans-serif;
   font-size: 22px;
   font-weight: 400;
   line-height: 24px;
 }
 h4 {
-  font-family: "Open Sans", Arial, sans-serif;
+  font-family: "微软雅黑", Arial, sans-serif;
   font-size: 18px;
   font-weight: 400;
   line-height: 20px;
 }
 h5 {
-  font-family: "Open Sans", Arial, sans-serif;
+  font-family: "微软雅黑", Arial, sans-serif;
   font-size: 16px;
   font-weight: 400;
   line-height: 18px;
 }
 h6 {
-  font-family: "Open Sans", Arial, sans-serif;
+  font-family: "微软雅黑", Arial, sans-serif;
   font-size: 14px;
   font-weight: 400;
   line-height: 16px;
@@ -158,7 +158,7 @@ figure img {
 }
 .line.grey h1 {
   text-align: center;
-  font-family: "Open Sans";
+  font-family: "微软雅黑";
   font-size: 45px;
   font-weight: 700;
   line-height: 48px;
@@ -173,7 +173,7 @@ figure img {
   margin-bottom: 40px;
 }
 .process h3 {
-  font-family: "Open Sans";
+  font-family: "微软雅黑";
   font-size: 18px;
   font-weight: 600;
   line-height: 20px;
@@ -182,7 +182,7 @@ figure img {
   margin-bottom: 20px;
 }
 .process .content {
-  font-family: "Open Sans";
+  font-family: "微软雅黑";
   font-size: 16px;
   font-weight: 300;
   line-height: 26px;
@@ -203,7 +203,7 @@ figure img {
 }
 .title {
   float: left;
-  font-family: "Open Sans";
+  font-family: "微软雅黑";
   font-size: 45px;
   font-weight: 700;
   line-height: 48px;
@@ -215,7 +215,7 @@ figure img {
   padding: 0;
   list-style: none;
   float: left;
-  font-family: "Open Sans";
+  font-family: "微软雅黑";
   font-size: 12px;
   font-weight: 600;
   line-height: 32px;
@@ -227,7 +227,7 @@ figure img {
   margin-right: 8px;
 }
 .title-content {
-  font-family: "Open Sans";
+  font-family: "微软雅黑";
   font-size: 18px;
   font-weight: 300;
   line-height: 32px;
@@ -235,7 +235,7 @@ figure img {
   margin-bottom: 40px;
 }
 .title-content .contact-details {
-  font-family: "Open Sans";
+  font-family: "微软雅黑";
   font-size: 18px;
   font-weight: 700;
   line-height: 32px;
@@ -250,7 +250,7 @@ figure img {
 }
 .title-content .input-group .form-control {
   background: #eaeaea;
-  font-family: "Open Sans";
+  font-family: "微软雅黑";
   font-size: 14px;
   font-weight: 400;
   line-height: 20px;
@@ -306,7 +306,7 @@ figure img {
   float: left;
   width: 100%;
   margin: 60px 0 30px;
-  font-family: "Open Sans";
+  font-family: "微软雅黑";
   font-size: 30px;
   font-weight: 700;
   line-height: 32px;
@@ -317,7 +317,7 @@ figure img {
   float: left;
   width: 100%;
   margin-bottom: 30px;
-  font-family: "Open Sans";
+  font-family: "微软雅黑";
   font-size: 15px;
   font-weight: 400;
   line-height: 27px;
@@ -360,7 +360,7 @@ figure img {
   float: left;
   width: 100%;
   text-align: center;
-  font-family: "Open Sans";
+  font-family: "微软雅黑";
   font-size: 23px;
   font-weight: 700;
   line-height: 34px;
@@ -428,7 +428,7 @@ figure img {
   vertical-align: middle;
 }
 .product figure .overlay .overlay-info .buy {
-  font-family: "Open Sans";
+  font-family: "微软雅黑";
   font-size: 13px;
   font-weight: 700;
   line-height: 20px;
@@ -443,7 +443,7 @@ figure img {
   margin: 55px auto 20px;
 }
 .product figure .overlay .overlay-info .compare {
-  font-family: "Open Sans";
+  font-family: "微软雅黑";
   font-size: 13px;
   font-weight: 700;
   line-height: 20px;
@@ -468,7 +468,7 @@ figure img {
   float: left;
   width: 100%;
   margin-top: 10px;
-  font-family: "Open Sans";
+  font-family: "微软雅黑";
   font-size: 16px;
   font-weight: 700;
   line-height: 25px;
@@ -478,7 +478,7 @@ figure img {
 .product .product-price {
   float: left;
   width: 100%;
-  font-family: "Open Sans";
+  font-family: "微软雅黑";
   font-size: 16px;
   font-weight: 700;
   line-height: 25px;
@@ -488,7 +488,7 @@ figure img {
 .product .category {
   float: left;
   width: 100%;
-  font-family: "Open Sans";
+  font-family: "微软雅黑";
   font-size: 12px;
   font-weight: 500;
   line-height: 25px;
@@ -502,7 +502,7 @@ figure img {
 .product-list .no-items {
   float: left;
   width: 100%;
-  font-family: "Open Sans";
+  font-family: "微软雅黑";
   font-size: 18px;
   font-weight: 400;
   line-height: 20px;
@@ -515,7 +515,7 @@ figure img {
   margin-bottom: 40px;
 }
 .product-list .sort .text {
-  font-family: "Open Sans";
+  font-family: "微软雅黑";
   font-size: 12px;
   font-weight: 400;
   line-height: 14px;
@@ -527,7 +527,7 @@ figure img {
   float: left;
 }
 .product-list .sort .btn-group .btn {
-  font-family: "Open Sans";
+  font-family: "微软雅黑";
   font-size: 12px;
   font-weight: 700;
   line-height: 14px;
@@ -571,7 +571,7 @@ figure img {
   border: solid 1px #202020;
 }
 .product-list .sort .btn-group .dropdown-menu a {
-  font-family: "Open Sans";
+  font-family: "微软雅黑";
   font-size: 12px;
   font-weight: 700;
   line-height: 14px;
@@ -584,7 +584,7 @@ figure img {
 }
 .product-list .pagination a {
   border: none;
-  font-family: "Open Sans";
+  font-family: "微软雅黑";
   font-size: 12px;
   font-weight: 400;
   line-height: 14px;
@@ -617,7 +617,7 @@ figure img {
   width: 100%;
 }
 .categories h3 {
-  font-family: "Open Sans";
+  font-family: "微软雅黑";
   font-size: 19px;
   font-weight: 400;
   line-height: 28px;
@@ -637,7 +637,7 @@ figure img {
   width: 100%;
 }
 .categories a {
-  font-family: "Open Sans";
+  font-family: "微软雅黑";
   font-size: 19px;
   font-weight: 700;
   line-height: 35px;
@@ -673,7 +673,7 @@ figure img {
 .pricing-box .panel-heading {
   background: #d7d7d7;
   border: none;
-  font-family: "Open Sans";
+  font-family: "微软雅黑";
   font-size: 28px;
   font-weight: 700;
   line-height: 30px;
@@ -691,21 +691,21 @@ figure img {
   color: #202020;
 }
 .pricing-box .price sup {
-  font-family: "Open Sans";
+  font-family: "微软雅黑";
   font-size: 45px;
   font-weight: 700;
   line-height: 70px;
   float: left;
 }
 .pricing-box .price .value {
-  font-family: "Open Sans";
+  font-family: "微软雅黑";
   font-size: 90px;
   font-weight: 700;
   line-height: 92px;
   float: left;
 }
 .pricing-box .price .per {
-  font-family: "Open Sans";
+  font-family: "微软雅黑";
   font-size: 20px;
   font-weight: 700;
   line-height: 145px;
@@ -715,7 +715,7 @@ figure img {
   margin: -20px 0 40px;
   padding: 0;
   list-style: none;
-  font-family: "Open Sans";
+  font-family: "微软雅黑";
   font-size: 16px;
   font-weight: 400;
   line-height: 50px;
@@ -756,7 +756,7 @@ figure img {
   display: inline-block;
 }
 .box .title {
-  font-family: "Open Sans";
+  font-family: "微软雅黑";
   font-size: 22px;
   font-weight: 700;
   line-height: 28px;
@@ -765,7 +765,7 @@ figure img {
   margin-top: 10px;
 }
 .box .title.sm-title {
-  font-family: "Open Sans";
+  font-family: "微软雅黑";
   font-size: 18px;
   font-weight: 700;
   line-height: 28px;
@@ -773,7 +773,7 @@ figure img {
 .box .content {
   float: left;
   width: 100%;
-  font-family: "Open Sans";
+  font-family: "微软雅黑";
   font-size: 15px;
   font-weight: 400;
   line-height: 26px;
@@ -787,7 +787,7 @@ figure img {
   margin-top: -30px;
 }
 form .form-control {
-  font-family: "Open Sans";
+  font-family: "微软雅黑";
   font-size: 14px;
   font-weight: 700;
   line-height: 19px;
@@ -824,7 +824,7 @@ form select {
 .share {
   float: left;
   width: 100%;
-  font-family: "Open Sans";
+  font-family: "微软雅黑";
   font-size: 13px;
   font-weight: 700;
   line-height: 15px;
@@ -1061,7 +1061,7 @@ form select {
   margin-bottom: 60px;
 }
 .column h3 {
-  font-family: "Open Sans";
+  font-family: "微软雅黑";
   font-size: 18px;
   font-weight: 400;
   line-height: 30px;
@@ -1069,7 +1069,7 @@ form select {
   margin: 0 0 35px 0;
 }
 .column h2 {
-  font-family: "Open Sans";
+  font-family: "微软雅黑";
   font-size: 18px;
   font-weight: 600;
   line-height: 36px;
@@ -1077,7 +1077,7 @@ form select {
   margin: 0 0 15px 0;
 }
 .column .content {
-  font-family: "Open Sans";
+  font-family: "微软雅黑";
   font-size: 15px;
   font-weight: 400;
   line-height: 26px;
@@ -1113,7 +1113,7 @@ form select {
   border-bottom: solid 1px #e5e5e5;
 }
 .toggles .panel-heading .panel-title {
-  font-family: "Open Sans";
+  font-family: "微软雅黑";
   font-size: 18px;
   font-weight: 700;
   line-height: 24px;
@@ -1141,7 +1141,7 @@ form select {
 .toggles .panel-heading + .panel-collapse .panel-body {
   border-top: none;
   border-bottom: solid 1px #e5e5e5;
-  font-family: "Open Sans";
+  font-family: "微软雅黑";
   font-size: 15px;
   font-weight: 400;
   line-height: 26px;
@@ -1149,7 +1149,7 @@ form select {
   padding: 30px;
 }
 .btn {
-  font-family: "Open Sans";
+  font-family: "微软雅黑";
   font-size: 14px;
   font-weight: 700;
   line-height: 19px;
@@ -1231,7 +1231,7 @@ form select {
   background: #dfe0e2;
 }
 .btn.btn-lg {
-  font-family: "Open Sans";
+  font-family: "微软雅黑";
   font-size: 18px;
   font-weight: 700;
   line-height: 24px;
@@ -1242,7 +1242,7 @@ form select {
   font-size: 25px;
 }
 .btn.btn-sm {
-  font-family: "Open Sans";
+  font-family: "微软雅黑";
   font-size: 10px;
   font-weight: 700;
   line-height: 15px;
@@ -1558,7 +1558,7 @@ form select {
   background: none repeat scroll 0 0 rgba(0, 0, 0, 0.1);
   border: solid 2px white;
   color: #ededed;
-  font-family: "Open Sans";
+  font-family: "微软雅黑";
   font-size: 14px;
   font-weight: 400;
   line-height: 24px;
@@ -1575,7 +1575,7 @@ form select {
   float: left;
   width: 100%;
   color: #202020;
-  font-family: "Open Sans";
+  font-family: "微软雅黑";
   font-size: 42px;
   font-weight: 700;
   line-height: 44px;
@@ -1586,7 +1586,7 @@ form select {
   float: left;
   width: 100%;
   color: #828282;
-  font-family: "Open Sans";
+  font-family: "微软雅黑";
   font-size: 20px;
   font-weight: 400;
   line-height: 29px;
@@ -1615,7 +1615,7 @@ form select {
 .statement.black .btn-statement {
   background: white;
   color: #202020;
-  font-family: "Open Sans";
+  font-family: "微软雅黑";
   font-size: 14px;
   font-weight: 700;
   line-height: 24px;
@@ -1627,7 +1627,7 @@ form select {
    background: none repeat scroll 0 0 rgba(0, 0, 0, 0.1);
   color: white;
   border: solid 1px white;
-  font-family: "Open Sans";
+  font-family: "微软雅黑";
   font-size: 14px;
   font-weight: 400;
   line-height: 24px;
@@ -1645,13 +1645,13 @@ form select {
 .statement.blue .btn-statement {
   background: #202020;
   color: white;
-  font-family: "Open Sans";
+  font-family: "微软雅黑";
   font-size: 14px;
   font-weight: 300;
   line-height: 24px;
 }
 .statement h2 {
-  font-family: "Open Sans";
+  font-family: "微软雅黑";
   font-size: 25px;
   font-weight: 400;
   line-height: 38px;
@@ -1676,7 +1676,7 @@ form select {
   margin-bottom: 30px;
 }
 .statement.simple h2 {
-  font-family: "Open Sans";
+  font-family: "微软雅黑";
   font-size: 20px;
   font-weight: 400;
   line-height: 24px;
@@ -1686,7 +1686,7 @@ form select {
   font-style: italic;
 }
 .statement.simple .date {
-  font-family: "Open Sans";
+  font-family: "微软雅黑";
   font-size: 14px;
   font-weight: 400;
   line-height: 24px;
@@ -1716,7 +1716,7 @@ form select {
   float: left;
 }
 .portfolio-header h3 {
-  font-family: "Open Sans", Arial, sans-serif;
+  font-family: "微软雅黑", Arial, sans-serif;
   font-size: 18px;
   font-weight: 700;
   line-height: 20px;
@@ -1725,7 +1725,7 @@ form select {
   margin-bottom: 5px;
 }
 .portfolio-header .category {
-  font-family: "Open Sans", Arial, sans-serif;
+  font-family: "微软雅黑", Arial, sans-serif;
   font-size: 14px;
   font-weight: 400;
   line-height: 16px;
@@ -1755,7 +1755,7 @@ form select {
 .portfolio-single-post .description-title {
   float: left;
   width: 100%;
-  font-family: "Open Sans", Arial, sans-serif;
+  font-family: "微软雅黑", Arial, sans-serif;
   font-size: 18px;
   font-weight: 600;
   line-height: 36px;
@@ -1765,7 +1765,7 @@ form select {
 .portfolio-single-post .description-content {
   float: left;
   width: 100%;
-  font-family: "Open Sans", Arial, sans-serif;
+  font-family: "微软雅黑", Arial, sans-serif;
   font-size: 14px;
   font-weight: 300;
   line-height: 24px;
@@ -1820,7 +1820,7 @@ form select {
 .footer-widget h2 {
   color: #202020;
   margin-bottom: 30px;
-  font-family: "Open Sans", Arial, sans-serif;
+  font-family: "微软雅黑", Arial, sans-serif;
   font-size: 14px;
   font-weight: 700;
   line-height: 26px;
@@ -1833,7 +1833,7 @@ form select {
 }
 .footer-widget .widget-content address {
   color: #737373;
-  font-family: "Open Sans", Arial, sans-serif;
+  font-family: "微软雅黑", Arial, sans-serif;
   font-size: 13px;
   font-weight: 400;
   line-height: 18px;
@@ -1878,7 +1878,7 @@ form select {
   margin-top: 0;
 }
 .footer-widget .latest-post h3 {
-  font-family: "Open Sans", Arial, sans-serif;
+  font-family: "微软雅黑", Arial, sans-serif;
   font-size: 14px;
   font-weight: 700;
   line-height: 26px;
@@ -1890,7 +1890,7 @@ form select {
 }
 .footer-widget .latest-post p {
   color: #737373;
-  font-family: "Open Sans", Arial, sans-serif;
+  font-family: "微软雅黑", Arial, sans-serif;
   font-size: 13px;
   font-weight: 400;
   line-height: 18px;
@@ -1898,7 +1898,7 @@ form select {
 }
 .footer-widget .latest-post .date {
   color: #202020;
-  font-family: "Open Sans", Arial, sans-serif;
+  font-family: "微软雅黑", Arial, sans-serif;
   font-size: 13px;
   font-weight: 400;
   line-height: 18px;
@@ -1910,7 +1910,7 @@ form select {
 }
 .footer-info p {
   color: #737373;
-  font-family: "Open Sans", Arial, sans-serif;
+  font-family: "微软雅黑", Arial, sans-serif;
   font-size: 14px;
   font-weight: 400;
   line-height: 18px;
@@ -2043,7 +2043,7 @@ form select {
 
 .team .postion {
   color: #d4d4d4;
-  font-family: "Open Sans", Arial, sans-serif;
+  font-family: "微软雅黑", Arial, sans-serif;
   font-size: 16px;
   font-weight: 400;
   line-height: 18px;
@@ -2291,7 +2291,7 @@ form select {
 }
 .recent-posts p {
   color: #666666;
-  font-family: "Open Sans", Arial, sans-serif;
+  font-family: "微软雅黑", Arial, sans-serif;
   font-size: 15px;
   font-weight: 400;
   line-height: 22px;
@@ -2310,7 +2310,7 @@ form select {
   margin-top: -2px;
 }
 .testimonial.embedded-author .name {
-  font-family: "Open Sans";
+  font-family: "微软雅黑";
   font-size: 14px;
   font-weight: 700;
   line-height: 22px;
@@ -2327,7 +2327,7 @@ form select {
   background: #e5e5e5;
   padding: 30px;
   float: left;
-  font-family: "Open Sans";
+  font-family: "微软雅黑";
   font-size: 15px;
   font-weight: 400;
   line-height: 26px;
@@ -2349,7 +2349,7 @@ form select {
 .testimonial .author {
   margin-top: 30px;
   float: left;
-  font-family: "Open Sans";
+  font-family: "微软雅黑";
   font-size: 14px;
   font-weight: 700;
   line-height: 22px;
@@ -2383,7 +2383,7 @@ form select {
   background-clip: padding-box;
   padding-left: 20px;
   padding-right: 20px;
-  font-family: "Open Sans";
+  font-family: "微软雅黑";
   font-size: 10px;
   font-weight: 700;
   line-height: 12px;
@@ -2403,14 +2403,14 @@ form select {
   background: #202020;
 }
 .text-editor {
-  font-family: "Open Sans";
+  font-family: "微软雅黑";
   font-size: 15px;
   font-weight: 700;
   line-height: 26px;
   color: #202020;
 }
 .text-editor em {
-  font-family: "Open Sans";
+  font-family: "微软雅黑";
   font-size: 15px;
   font-weight: 400;
   line-height: 26px;
@@ -2422,14 +2422,14 @@ form select {
 }
 .text-editor p span {
   float: left;
-  font-family: "Open Sans";
+  font-family: "微软雅黑";
   font-size: 61px;
   font-weight: 700;
   line-height: 63px;
   margin: 0 15px -15px 0;
 }
 .text-editor p span.filled {
-  font-family: "Open Sans";
+  font-family: "微软雅黑";
   font-size: 42px;
   font-weight: 700;
   line-height: 44px;
@@ -2466,7 +2466,7 @@ form select {
   width: 100%;
   padding: 0 15px;
   margin-bottom: 40px;
-  font-family: "Open Sans";
+  font-family: "微软雅黑";
   font-size: 15px;
   font-weight: 700;
   line-height: 26px;
@@ -2482,7 +2482,7 @@ form select {
 .text-editor blockquote.lg-quote {
   margin-top: 60px;
   margin-bottom: 100px;
-  font-family: "Open Sans";
+  font-family: "微软雅黑";
   font-size: 24px;
   font-weight: 700;
   line-height: 32px;
@@ -2526,7 +2526,7 @@ form select {
   border-bottom: solid 1px #cecece;
   padding: 30px 15px;
   position: relative;
-  font-family: "Open Sans";
+  font-family: "微软雅黑";
   font-size: 16px;
   font-weight: 700;
   line-height: 24px;
@@ -2574,7 +2574,7 @@ form select {
 }
 .tabs .nav-tabs {
   border-bottom: none;
-  font-family: "Open Sans";
+  font-family: "微软雅黑";
   font-size: 14px;
   font-weight: 700;
   line-height: 22px;
@@ -2598,7 +2598,7 @@ form select {
 .tabs .tab-pane {
   padding: 30px;
   background: #ededed;
-  font-family: "Open Sans";
+  font-family: "微软雅黑";
   font-size: 15px;
   font-weight: 400;
   line-height: 26px;
@@ -2676,7 +2676,7 @@ form select {
 .action-call.grey h2 {
   float: left;
   margin: 0;
-  font-family: "Open Sans";
+  font-family: "微软雅黑";
   font-size: 28px;
   font-weight: 700;
   line-height: 30px;
@@ -2686,7 +2686,7 @@ form select {
 .action-call.grey h3 {
   float: left;
   margin: 0;
-  font-family: "Open Sans";
+  font-family: "微软雅黑";
   font-size: 14px;
   font-weight: 400;
   line-height: 24px;
@@ -2712,7 +2712,7 @@ form select {
 .action-call.red h2 {
   float: left;
   margin: 0;
-  font-family: "Open Sans";
+  font-family: "微软雅黑";
   font-size: 35px;
   font-weight: 700;
   line-height: 45px;
@@ -2745,7 +2745,7 @@ form select {
 .table > thead > tr > th {
   padding: 25px 40px;
   background: #e2e2e2;
-  font-family: "Open Sans";
+  font-family: "微软雅黑";
   font-size: 14px;
   font-weight: 700;
   line-height: 24px;
@@ -2765,7 +2765,7 @@ form select {
 }
 .table > tbody > tr > td {
   text-align: center;
-  font-family: "Open Sans";
+  font-family: "微软雅黑";
   font-size: 14px;
   font-weight: 700;
   line-height: 45px;
@@ -2777,7 +2777,7 @@ form select {
   width: 100%;
 }
 .labels h3 {
-  font-family: "Open Sans";
+  font-family: "微软雅黑";
   font-size: 22px;
   font-weight: 700;
   line-height: 35px;
@@ -2793,7 +2793,7 @@ form select {
   margin-bottom: 10px;
 }
 .label {
-  font-family: "Open Sans";
+  font-family: "微软雅黑";
   font-size: 10px;
   font-weight: 700;
   line-height: 12px;
@@ -2822,7 +2822,7 @@ form select {
   width: 100%;
 }
 .badges h3 {
-  font-family: "Open Sans";
+  font-family: "微软雅黑";
   font-size: 22px;
   font-weight: 700;
   line-height: 35px;
@@ -2838,7 +2838,7 @@ form select {
   margin-bottom: 10px;
 }
 .badge {
-  font-family: "Open Sans";
+  font-family: "微软雅黑";
   font-size: 10px;
   font-weight: 700;
   line-height: 12px;
@@ -2876,21 +2876,21 @@ form select {
   width: 100%;
 }
 .popovers h3 {
-  font-family: "Open Sans";
+  font-family: "微软雅黑";
   font-size: 22px;
   font-weight: 700;
   line-height: 35px;
   color: #202020;
 }
 .popovers .content {
-  font-family: "Open Sans";
+  font-family: "微软雅黑";
   font-size: 15px;
   font-weight: 400;
   line-height: 26px;
   color: #666666;
 }
 .popovers button {
-  font-family: "Open Sans";
+  font-family: "微软雅黑";
   font-size: 15px;
   font-weight: 400;
   line-height: 26px;
@@ -2946,14 +2946,14 @@ form select {
   background-clip: padding-box;
   background: #fafafa;
   border-bottom: solid 1px #bdbdbd;
-  font-family: "Open Sans";
+  font-family: "微软雅黑";
   font-size: 14px;
   font-weight: 700;
   line-height: 19px;
   color: #202020;
 }
 .popover .popover-content {
-  font-family: "Open Sans";
+  font-family: "微软雅黑";
   font-size: 13px;
   font-weight: 700;
   line-height: 19px;
@@ -2980,14 +2980,14 @@ form select {
   border-bottom: solid 1px #e5e5e5;
 }
 .post h2 {
-  font-family: "Open Sans";
+  font-family: "微软雅黑";
   font-size: 40px;
   font-weight: 700;
   line-height: 50px;
   color: #202020;
 }
 .post h3 {
-  font-family: "Open Sans";
+  font-family: "微软雅黑";
   font-size: 23px;
   font-weight: 700;
   line-height: 30px;
@@ -3015,7 +3015,7 @@ form select {
 }
 .post .info li .text {
   float: left;
-  font-family: "Open Sans";
+  font-family: "微软雅黑";
   font-size: 14px;
   font-weight: 400;
   line-height: 26px;
@@ -3046,7 +3046,7 @@ form select {
 .post .content {
   float: left;
   width: 100%;
-  font-family: "Open Sans";
+  font-family: "微软雅黑";
   font-size: 16px;
   font-weight: 400;
   line-height: 28px;
@@ -3062,7 +3062,7 @@ form select {
 .post .share-link {
   text-decoration: none;
   float: right;
-  font-family: "Open Sans";
+  font-family: "微软雅黑";
   font-size: 14px;
   font-weight: 700;
   line-height: 22px;
@@ -3179,7 +3179,7 @@ form select {
 .widget h3 {
   float: left;
   width: 100%;
-  font-family: "Open Sans";
+  font-family: "微软雅黑";
   font-size: 16px;
   font-weight: 700;
   line-height: 48px;
@@ -3195,7 +3195,7 @@ form select {
   width: 100%;
 }
 .widget.list ul a {
-  font-family: "Open Sans";
+  font-family: "微软雅黑";
   font-size: 14px;
   font-weight: 400;
   line-height: 32px;
@@ -3205,7 +3205,7 @@ form select {
   width: 100%;
 }
 .widget.text .text-content {
-  font-family: "Open Sans";
+  font-family: "微软雅黑";
   font-size: 14px;
   font-weight: 400;
   line-height: 23px;
@@ -3224,7 +3224,7 @@ form select {
 .comments h2 {
   float: left;
   width: 100%;
-  font-family: "Open Sans";
+  font-family: "微软雅黑";
   font-size: 16px;
   font-weight: 700;
   line-height: 24px;
@@ -3262,7 +3262,7 @@ form select {
 }
 .comments li .name {
   margin-left: 90px;
-  font-family: "Open Sans";
+  font-family: "微软雅黑";
   font-size: 15px;
   font-weight: 700;
   line-height: 22px;
@@ -3270,7 +3270,7 @@ form select {
 }
 .comments li .comment {
   margin: 10px 0 10px 90px;
-  font-family: "Open Sans";
+  font-family: "微软雅黑";
   font-size: 15px;
   font-weight: 400;
   line-height: 22px;
@@ -3278,7 +3278,7 @@ form select {
 }
 .comments li .date {
   margin-left: 90px;
-  font-family: "Open Sans";
+  font-family: "微软雅黑";
   font-size: 15px;
   font-weight: 700;
   line-height: 22px;
@@ -3289,7 +3289,7 @@ form select {
   bottom: 0;
   right: 0;
   text-decoration: none;
-  font-family: "Open Sans";
+  font-family: "微软雅黑";
   font-size: 11px;
   font-weight: 700;
   line-height: 15px;
@@ -3327,7 +3327,7 @@ form select {
 .blog-form h2 {
   float: left;
   width: 100%;
-  font-family: "Open Sans";
+  font-family: "微软雅黑";
   font-size: 16px;
   font-weight: 700;
   line-height: 24px;
@@ -3389,7 +3389,7 @@ form select {
   color: #838383;
 }
 .simple-footer .footer-group .content {
-  font-family: "Open Sans";
+  font-family: "微软雅黑";
   font-size: 12px;
   font-weight: 400;
   line-height: 25px;
@@ -3552,7 +3552,7 @@ form select {
   border: solid 1px #CCC;
   margin-bottom: 30px;
   color: #999;
-  font-family: "Open Sans", Arial, sans-serif;
+  font-family: "微软雅黑", Arial, sans-serif;
 }
 .selectboxit-container .selectboxit-btn:hover {
   background: transparent;
