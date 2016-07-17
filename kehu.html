@@ -522,6 +522,9 @@
             var filterValue = $(this).attr('data-filter');
             isotopeContainer.isotope({ filter: filterValue });
         });
+        setTimeout(1000,function(){
+          $('.isotopeFilters').trigger('click');
+        });
     });
 </script>
 </body>
