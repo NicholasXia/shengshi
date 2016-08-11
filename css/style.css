@@ -228,10 +228,10 @@ figure img {
 }
 .title-content {
   font-family: "Microsoft YaHei";
-  font-size: 18px;
+  font-size: 16px;
   font-weight: 300;
   line-height: 32px;
-  color: #aaaaaa;
+  color: #222;
   margin-bottom: 40px;
 }
 .title-content .contact-details {
@@ -1311,7 +1311,7 @@ form select {
   color: #202020;
 }
 .navbar.navbar-inverse .main-nav > li > a {
-  color: #202020;
+  color: white;
   text-transform: uppercase;
   -webkit-transition: all .4s ease-in-out;
   -moz-transition: all .4s ease-in-out;
@@ -1427,7 +1427,7 @@ form select {
 .navbar .inverse-color {
   float: left;
   width: 100%;
-  background: white;
+  background: #3D3D3D;
   position:relative;
 	z-index:10
 }
@@ -1550,7 +1550,7 @@ form select {
   width: 100%;
   background-size: cover;
   background-position: center;
-  text-align: center;
+  text-align: left;;
   padding: 130px 170px 90px 170px;
 }
 
@@ -3825,8 +3825,11 @@ form select {
     background-size: cover;
     float: left;
     padding: 130px 170px 90px;
-    text-align: center;
+    text-align: left;
     width: 100%;
+}
+.statement>p {
+    color: white;
 }
 
 
@@ -3904,7 +3907,7 @@ form select {
 }
 
 .statement.statement-home-2 {
-    background-image:url('../content/statement-backgrounds/mac.jpg');
+    background-image:url('../content/statement-backgrounds/client.png');
 }
 
 .statement.statement-home-products {
